@@ -1,6 +1,4 @@
-Oferta academica del Centro de Gestión de Mercados, Logística y Tecnologías de la Información
--Teleinformática
--Logística
+Oferta academica del Centro de GestiÃ³n de Mercados, LogÃ­stica y TecnologÃ­as de la InformaciÃ³n
+-TeleinformÃ¡tica
+-LogÃ­stica
 -Mercadeo
--Industrias creativas
--Formación complementaria
